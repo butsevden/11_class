@@ -101,4 +101,3 @@ def get_url():
 
 if __name__ == '__main__':
     get_url()
-    print(1234567)
